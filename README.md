@@ -16,7 +16,7 @@
   <a target="_blank" href="https://chainstack.com/protocols/">Supported protocols</a> •
   <a target="_blank" href="https://chainstack.com/blog/">Chainstack blog</a> •
   <a target="_blank" href="https://docs.chainstack.com/">Chainstack docs</a> •
-  <a target="_blank" href="[https://docs.chainstack.com/quickstart/](https://docs.chainstack.com/api/)">Blockchain API reference</a> •
+  <a target="_blank" href="https://docs.chainstack.com/api/">Blockchain API reference</a> •
   <a target="_blank" href="https://console.chainstack.com/user/account/create">Start for free</a> •
 </p>
 
@@ -40,11 +40,7 @@ This repository holds the code used in the [How to buidl your web3 dashboard](ht
 
 Before running the code, it is highly recommended that you go through the blog as it describes the whole logic of the code.
 
-Clone this repository:
-
-```sh
-git clone https://github.com/SethuRamanOmanakuttan/EVM-Dashboard.git
-```
+Clone this repository.
 
 Install the Python dependencies:
   
@@ -81,11 +77,7 @@ Install Python on your system:
 
 * [Install Python](https://realpython.com/installing-python/)
 
-Clone this repository:
-
-```sh
-git clone https://github.com/SethuRamanOmanakuttan/EVM-Dashboard.git
-```
+Clone this repository.
 
 Install the Python dependencies:
   
