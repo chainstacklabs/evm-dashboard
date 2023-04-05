@@ -65,12 +65,6 @@ Deploy a node with Chainstack:
 1. [Deploy a node](https://docs.chainstack.com/platform/join-a-public-network).  
 1. [View node access and credentials](https://docs.chainstack.com/platform/view-node-access-and-credentials). 
 
-## Dependencies
-
-* gspread ^5.4.0
-* web3.py ^5.29.2
-* websockets ^9.1
-
 ## Install
 
 Install Python on your system:
